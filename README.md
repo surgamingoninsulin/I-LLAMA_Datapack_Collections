@@ -68,7 +68,6 @@ Below is a list of all datapacks available in this collection, along with their 
 | Datapack Name | Authors               | Desciption                                                                                                                | Vesion | Download Link   |
 |---------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------|--------|-----------------|
 | Woodwork      | Sur Gaming On Insulin | This datapack enables the stonecutter to be used as a saw table for wood,<br>allowing for more efficient wood processing. | 1.0.0  | [Download](https://github.com/surgamingoninsulin/I-LLAMA_Datapack_Collections/raw/refs/heads/main/Collections/I-LLAMA%20Datapack%20Collections%20-%20Woodwork.zip) |
-| Lava Source Conversion      | Sur Gaming On Insulin | This datapack enables the lava to work as water. | 1.0.0  | (Comming Soon!) |
 
 ---
 
