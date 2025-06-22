@@ -1,0 +1,18 @@
+# I-LLAMA Datapack Collections - Content List
+
+# This file serves as a manifest for all datapacks hosted in this repository.
+# Each entry provides essential information for users.
+
+datapacks:
+  - name: Woodwork # The user-friendly name of the datapack.
+    authors: ["Sur Gaming On Insulin"] # A list of creators for the datapack.
+    description: "This datapack enables the stonecutter to be used as a saw table for wood, allowing for more efficient wood processing." # A concise summary of its functionality.
+    version: "1.0.0" # The current version of the datapack.
+
+  # Example of another datapack entry:
+  # - name: My Awesome Datapack
+  #   authors: ["Your Name", "Collaborator"]
+  #   description: "A comprehensive datapack that adds new biomes, mobs, and crafting recipes to your Minecraft world."
+  #   version: "2.1.0"
+
+# Add more datapack entries below following the same structure.
